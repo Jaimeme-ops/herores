@@ -3,7 +3,7 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## hola
+## cambios en remoto
 Pueden hacer lo que quieran...
 
 ### Actualizado desde github 
